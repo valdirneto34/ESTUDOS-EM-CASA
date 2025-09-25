@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"name": "IAP 2024",
+			"path": "../IFMG-SJE-GITHUB/IFMG - SJE/IAP 2024"
+		},
+		{
+			"name": "AED-1 2024",
+			"path": "../IFMG-SJE-GITHUB/IFMG - SJE/AED-1 2024"
+		},
+		{
+			"name": "AED - 2 2025",
+			"path": "../IFMG-SJE-GITHUB/IFMG - SJE/AED - 2 2025"
+		},
+		{
+			"name": "CEMV",
+			"path": "../CEMV"
+		},
+		{
+			"name": "C++",
+			"path": "../../../../../C++"
+		},
+		{
+			"name": "MYTESTS",
+			"path": "../MYTESTS"
+		},
+		{
+			"name": "ESTUDOS",
+			"path": "../ESTUDOS"
+		},
+		{
+			"name": "DART",
+			"path": "."
+		},
+		{
+			"name": "Testes",
+			"path": "../IFMG-SJE-GITHUB/IFMG - SJE/Testes"
+		},
+		{
+			"name": "AED - 3 2025",
+			"path": "../IFMG-SJE-GITHUB/IFMG - SJE/AED - 3 2025"
+		}
+	],
+	"settings": {}
+}
